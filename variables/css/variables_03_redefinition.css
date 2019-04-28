@@ -1,0 +1,18 @@
+.header {
+  width: 100px;
+  height: 200px;
+  background-color: #ff0000;
+}
+
+.main {
+  width: 100px;
+  height: 50px;
+  background-color: #00ff00;
+}
+
+.footer {
+  width: 100px;
+  height: 200px;
+  background-color: #000000;
+}
+/*# sourceMappingURL=variables_03_redefinition.css.map */
