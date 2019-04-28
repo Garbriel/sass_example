@@ -1,0 +1,13 @@
+$width: 100px;
+$height: 200px;
+.main {
+$height: 50px;
+width: $width;
+height: $height;
+background-color: #00ff00;
+}
+.footer {
+width: $width;
+height: $height;
+background-color: #0000ff;
+}

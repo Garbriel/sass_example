@@ -1,0 +1,29 @@
+$backgroundColor: #ffffff;
+$backgroundColor: #ff0000; // 변수 재정의
+
+$width: 100px;
+$height: 200px;
+.header {
+    width: $width;
+    height: $height;
+    background-color: $backgroundColor;
+}
+
+$backgroundColor: #00ff00 !default; // 변수 재정의
+
+.main {
+$height: 50px;
+width: $width;
+height: $height;
+background-color: $backgroundColor;
+
+}
+
+$backgroundColor: #000000; // 변수 재정의
+
+.footer {
+width: $width;
+height: $height;
+background-color: $backgroundColor;
+
+}
